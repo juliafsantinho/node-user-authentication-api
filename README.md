@@ -1,6 +1,6 @@
-# Microserviço de autenticação com Nodejs
+# Microseerviços de autenticação com Nodejs
 
-Este projeto é composto por um **microserviço de autenticação** que poderá compor a caixinha de ferramentas e ser muito útil no dia a dia. :hammer::wrench:
+Este projeto é composto por um **microsserviços de autenticação** que poderá compor a caixinha de ferramentas e ser muito útil no dia a dia. :hammer::wrench:
 
 ## Composição do projeto
 
